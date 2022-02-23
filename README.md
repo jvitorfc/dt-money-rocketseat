@@ -15,19 +15,18 @@ Consulte **Implantação** para saber como implantar o projeto.
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-npm install
+npm install yarn -g
+```
+
+```
+yarn
 ```
 
 ## 📦 Desenvolvimento
 
 ```
-npm build 
+yarn dev
 ```
-
-```
-deployment
-```
-
 ## 🛠️ Construído com
 
 * React
